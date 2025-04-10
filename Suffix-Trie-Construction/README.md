@@ -19,6 +19,39 @@ Suffix tries are highly useful in various fields, including:
 - **Data Compression**: Identifying repeated patterns to achieve better compression ratios.
 - **Computational Biology**: Analyzing genetic sequences to identify genes, regulatory elements, and mutations.
 
+## Example Data and Outputs
+
+### Example Sequences
+
+1. **Sequence S1**: "GAGTAAGTCA"
+   - **Suffixes**:
+     ```
+     [('A\$', 9), ('AAGTCA\$', 4), ('AGTAAGTCA\$', 1), ('AGTCA\$', 5),
+     ('CA\$', 8), ('GAGTAAGTCA\$', 0), ('GTAAGTCA\$', 2), ('GTCA\$', 6),
+     ('TAAGTCA\$', 3), ('TCA\$', 7)]
+     ```
+   - **Suffix Trie**:
+     ![Suffix Trie for S1](visualizations/SufTr1.png)
+
+2. **Sequence S2**: "GAGTAAGTCA"
+   - **Suffixes**:
+     ```
+     [('AC\$', 8), ('ACGTAC\$', 4), ('ACGTACGTAC\$', 0), ('C\$', 9), ('CGTAC\$', 5),
+     ('CGTACGTAC\$', 1), ('GTAC\$', 6), ('GTACGTAC\$', 2), ('TAC\$', 7),
+     ('TACGTAC\$', 3)]
+     ```
+   - **Suffix Trie**:
+     ![Suffix Trie for S2](visualizations/SufTr2.png)
+
+3. **Sequence S3**: "GCTAAAAAAG"
+   - **Suffixes**:
+     ```
+     [('AAAAAAG\$', 3), ('AAAAAG\$', 4), ('AAAAG\$', 5), ('AAAG\$', 6), ('AAG\$', 7),
+     ('AG\$', 8), ('CTAAAAAAG\$', 1), ('G\$', 9), ('GCTAAAAAAG\$', 0), ('TAAAAAAG\$', 2)]
+     ```
+   - **Suffix Trie**:
+     ![Suffix Trie for S3](visualizations/SufTr3.png)
+     
 ## Tools Used
 
 - **Python**: The primary programming language used for implementation.
