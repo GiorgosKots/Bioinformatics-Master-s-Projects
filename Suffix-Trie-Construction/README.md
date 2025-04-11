@@ -41,7 +41,8 @@ Suffix tries are highly useful in various fields, including:
      ('TACGTAC\$', 3)]
      ```
    - **Suffix Trie**:
-     ![Suffix Trie for S2](visualizations/SufTr2.png)
+     ![Suffix Trie for S2]
+     (visualizations/SufTr2.png)
 
 3. **Sequence S3**: "GCTAAAAAAG"
    - **Suffixes**:
