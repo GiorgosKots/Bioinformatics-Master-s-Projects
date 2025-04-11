@@ -1,4 +1,5 @@
 #### `code/suffix_trie_builder.py`
+import graphviz
 
 def suffixes(S):
     """
