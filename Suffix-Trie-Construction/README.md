@@ -60,8 +60,7 @@ Suffix tries are highly useful in various fields, including:
 ## Repository Structure
 
 - **code/**: Contains the Python scripts for generating suffixes, building the trie, and visualizing it.
-- **data/**: Includes example DNA sequences used in the analysis.
-- **documentation/**: Detailed reports and findings from the analysis.
+- **Example/**: Includes example DNA sequences used in the analysis.
 - **README.md**: This file, providing an overview of the project.
 
 ## Setup Instructions
