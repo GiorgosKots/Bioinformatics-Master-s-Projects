@@ -66,10 +66,17 @@ The dataset consists of 50 short DNA sequences with an embedded motif. The Gibbs
 ## Setup Instructions
 
 1. **Clone the Repository**:
- ```bash
+   ```bash
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name/Motif-Discovery
 
-2. **dfl** :
+2. **Install Dependencies**:
+   ```bash
+   pip install numpy regex
+   
+3. **Run the Code**:
+   ```bash
+   python code/gibbs_sampler.py
 
-  
+4. **Custom Usage**:
+   Modify the sequence variable in the script or pass it as an argument to the main function for different inputs.
