@@ -14,8 +14,7 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 
 Each project is contained within its own directory, including:
 - **Code**: Source code for the project.
-- **Data**: Datasets used in the project.
-- **Documentation**: Detailed explanations, reports, and findings.
+- **Example**: Example of the results.
 - **README.md**: A brief overview of the project.
 
 ## Setup Instructions
