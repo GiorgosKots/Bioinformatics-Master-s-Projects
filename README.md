@@ -10,6 +10,12 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 - **Tools Used**: Python, Graphviz.
 - **Directory**: [Suffix Trie Construction](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/blob/main/Suffix-Trie-Construction)
 
+### Gibbs Sampler for Motif Discovery
+- **Description**: This project implements the Gibbs Sampler algorithm for discovering hidden motifs in DNA sequences. The Gibbs Sampler is a statistical method used to iteratively sample from a probability distribution, which is particularly useful for motif discovery in bioinformatics.
+- **Key Concepts**: Gibbs Sampler, Motif Discovery, Position Weight Matrix (PWM)
+- **Tools Used**: Python, NumPy, Regex.
+- **Directory**: [Motif Discovery (Gibbs Sampler)](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/blob/main/)
+
 ## Repository Structure
 
 Each project is contained within its own directory, including:
