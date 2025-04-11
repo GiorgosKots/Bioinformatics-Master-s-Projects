@@ -29,10 +29,6 @@ Each project is contained within its own directory, including:
 2. Navigate to the project directory of interest.
 3. Follow the instructions in the project's README.md file to set up and run the project.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your-email@example.com].
+For any questions or inquiries, please contact [Kotsopoulos Giorgos] at [kotsgeorge999@gmail.com].
