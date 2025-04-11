@@ -8,7 +8,7 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 - **Description**: This project focuses on creating a suffix trie from the suffix array of a given DNA sequence. It explores how sequence complexity affects the size and structure of the suffix trie.
 - **Key Concepts**: Suffix tries, suffix arrays, sequence complexity.
 - **Tools Used**: Python, Graphviz.
-- **Directory**: [Suffix Trie Construction](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/blob/main/Suffix-Trie-Construction/README.md)
+- **Directory**: [Suffix Trie Construction](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/blob/main/Suffix-Trie-Construction)
 
 ## Repository Structure
 
