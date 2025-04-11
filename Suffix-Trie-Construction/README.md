@@ -70,3 +70,14 @@ Suffix tries are highly useful in various fields, including:
    ```bash
    git clone https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects.git
    cd Bioinformatics-Master-s-Projects/Suffix-Trie-Construction
+
+2. **Install Dependencies**:
+   ```bash
+   pip install graphviz
+
+3. **Run the Code**:
+   ```bash
+   python code/suffix_trie_builder.py
+
+4. **Custom Usage**:
+   You can modify the sequence variable in the script or pass it as an argument to the main function for different inputs.
