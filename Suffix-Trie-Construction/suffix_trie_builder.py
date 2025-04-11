@@ -73,7 +73,8 @@ def main(sequence, output_filename='trie', file_format='png'):
     Parameters:
     sequence (str): The input DNA sequence.
     output_filename (str): The name of the output file for the visualization.
-    file_format (str): The format of the output file.
+    file_format (str): The format of the output file. Supported formats include:
+                      'png', 'jpg', 'jpeg', 'pdf', 'svg', 'gif', 'tiff', 'bmp'.
     """
     suffixes_list = suffixes(sequence)
     print(f"Suffixes: {suffixes_list}")
