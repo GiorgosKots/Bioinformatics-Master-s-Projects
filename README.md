@@ -41,14 +41,6 @@ Each project is contained within its own directory, including:
 
 ---
 
-## Setup Instructions
-
-1. Clone the repository to your local machine.
-2. Navigate to the project directory of interest.
-3. Follow the instructions in the project's README.md file to set up and run the project.
-
----
-
 ## Contact
 
 For any questions or inquiries, please contact [Kotsopoulos Giorgos] at [kotsgeorge999@gmail.com].
