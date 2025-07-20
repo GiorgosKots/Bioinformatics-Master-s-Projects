@@ -13,7 +13,7 @@ This project implements two simplified versions of the **FastA algorithm** for l
 
 ---
 
-### ⚙️ Method 1: Full k-mer Matching (`1_fasta_full_kmer.py`)
+### ⚙️ Method 1: Full k-mer Matching (`fasta_full_kmer.py`)
 
 This script implements a simplified version of the original FastA algorithm.
 
@@ -35,7 +35,7 @@ Matched sequence: YMR021C with a total score of 1754
 Highest matching sequence: YMR021C with a score of 1754
 ```
 
-### ⚡ Method 2: Most Common k-mer Heuristic (`2_fasta_common_kmer.py`)
+### ⚡ Method 2: Most Common k-mer Heuristic (`fasta_common_kmer.py`)
 
 This script implements a lightweight heuristic approach for fast filtering.
 
