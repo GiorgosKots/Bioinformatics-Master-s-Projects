@@ -81,3 +81,21 @@ Both implementations effectively identify `YMR021C` as the highest matching sequ
 - **Impact of Top k-mers**: When using the top 100 or top 50 k-mers for `k = 8`, the total score remains the same (1726). This consistency indicates that the most significant matches are captured within the top 50 k-mers, and additional k-mers beyond this do not significantly contribute to the score. Therefore, limiting the number of k-mers can enhance efficiency without compromising accuracy.
 
 This project showcases the balance between computational efficiency and accuracy in sequence alignment, providing insights into optimizing bioinformatics algorithms for large-scale data analysis.
+
+---
+
+### 🛠 Tools Used
+
+- **Python**: The primary programming language used for implementation.
+- **NumPy**: Used for numerical operations and matrix manipulations.
+- **Regex**: Used for pattern matching and data processing.
+
+---
+
+### 📂 Repository Structure
+
+- `fasta_full_kmer_match.py`: Script for full k-mer matching.
+- `fasta_common_kmer_match.py`: Script for the most common k-mer heuristic.
+- `query.fa`: The query sequence in FASTA format.
+- `all_yeast_genes_minplus1k.fa`: The target database of sequences in FASTA format.
+- `README.md`: This file, providing an overview of the project.
