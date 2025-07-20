@@ -30,6 +30,12 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 - **Tools Used**: Python, NumPy, Regex.
 - **Directory**: [FastA-Inspired Sequence Matching](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main/FastA-Simplified)
 
+### ALS-LLPS Protein Analysis
+- **Description**: This project analyzes the relationship between ALS (Amyotrophic Lateral Sclerosis) and proteins that undergo Liquid-Liquid Phase Separation (LLPS), focusing on the presence of Low Complexity Regions (LCRs) and Compositionally Biased Regions (CBRs). Using protein sequence data and statistical tools, it uncovers potential structural features linked to ALS pathogenesis.
+- **Key Concepts**: ALS, LLPS, LCRs, CBRs, protein sequence analysis, statistical bioinformatics.
+- **Tools Used**: Python, BioPython, PlatoLoCo, SEG, CAST, SciPy, Pandas, Seaborn.
+- **Directory**: [ALS-LLPS Protein Analysis](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main/ALS-LLPS-Protein-Analysis)
+  
 --- 
 
 ## Repository Structure
