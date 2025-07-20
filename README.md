@@ -16,6 +16,14 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 - **Tools Used**: Python, NumPy, Regex.
 - **Directory**: [Motif Discovery (Gibbs Sampler)](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main/Motif-Discovery(Gibbs-Sampler))
 
+### Burrows-Wheeler Transform (BWT)
+- **Description**: This project implements the Burrows-Wheeler Transform (BWT) and its inverse (iBWT), a technique used in data compression and genome indexing. The BWT rearranges a string into a form that's easier to compress, and iBWT restores the original sequence. It's widely used in tools like BWA and Bowtie.
+- **Key Concepts**: Burrows-Wheeler Transform, inverse BWT, genome indexing, compression.
+- **Tools Used**: Python.
+- **Directory**: [Burrows-Wheeler Transform](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main/Burrows-Wheeler-Transform)
+
+--- 
+
 ## Repository Structure
 
 Each project is contained within its own directory, including:
