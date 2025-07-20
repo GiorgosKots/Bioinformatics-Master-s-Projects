@@ -24,6 +24,12 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 - **Tools Used**: Python.
 - **Directory**: [Burrows-Wheeler Transform](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main/Burrows-Wheeler%20Transform)
 
+### FastA-Inspired Sequence Matching
+- **Description**: This project implements two versions of a sequence alignment algorithm inspired by the FastA algorithm for local sequence alignment between biological sequences. It explores efficient methods to find the most similar sequence(s) in a FASTA-formatted database given a query sequence.
+- **Key Concepts**: Sequence alignment, k-mer matching, heuristic methods, FastA algorithm.
+- **Tools Used**: Python, NumPy, Regex.
+- **Directory**: [FastA-Inspired Sequence Matching](link-to-directory)
+
 --- 
 
 ## Repository Structure
