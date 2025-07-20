@@ -2,6 +2,8 @@
 
 Welcome to my Bioinformatics Master's Projects repository! This repository is a collection of projects completed during my master's program in Bioinformatics. Each project explores different aspects of bioinformatics, from algorithm development to data analysis and visualization.
 
+---
+
 ## Projects Overview
 
 ### Suffix Trie Construction
@@ -31,11 +33,15 @@ Each project is contained within its own directory, including:
 - **Example**: Example of the results.
 - **README.md**: A brief overview of the project.
 
+---
+
 ## Setup Instructions
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory of interest.
 3. Follow the instructions in the project's README.md file to set up and run the project.
+
+---
 
 ## Contact
 
