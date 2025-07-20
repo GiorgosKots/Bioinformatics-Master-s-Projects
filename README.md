@@ -28,7 +28,7 @@ Welcome to my Bioinformatics Master's Projects repository! This repository is a 
 - **Description**: This project implements two versions of a sequence alignment algorithm inspired by the FastA algorithm for local sequence alignment between biological sequences. It explores efficient methods to find the most similar sequence(s) in a FASTA-formatted database given a query sequence.
 - **Key Concepts**: Sequence alignment, k-mer matching, heuristic methods, FastA algorithm.
 - **Tools Used**: Python, NumPy, Regex.
-- **Directory**: [FastA-Inspired Sequence Matching](link-to-directory)
+- **Directory**: [FastA-Inspired Sequence Matching](https://github.com/GiorgosKots/Bioinformatics-Master-s-Projects/tree/main/FastA-Simplified)
 
 --- 
 
