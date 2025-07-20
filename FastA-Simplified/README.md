@@ -46,8 +46,8 @@ This script implements a lightweight heuristic approach for fast filtering.
 
 #### 🧮 Parameters:
 
-- 'k = 7 or 8': length of k-mers.
-- 'top_n = 50 or 100': number of top k-mers to consider.
+- `k = 7 or 8`: length of k-mers.
+- `top_n = 50 or 100`: number of top k-mers to consider.
 
 #### ✅ Example Result:
 ```python
